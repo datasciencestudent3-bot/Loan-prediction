@@ -2,9 +2,7 @@
 # 🏦 Loan Prediction using Machine Learning
 
 A beginner-friendly Machine Learning project that predicts whether a loan application will be **Approved** or **Rejected** based on applicant information. This project covers the complete data analysis workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation using Logistic Regression.
-
 ---
-
 ## 📌 Project Overview
 
 The objective of this project is to build a classification model that predicts loan approval status using applicant details such as income, education, employment status, credit history, and loan amount.
